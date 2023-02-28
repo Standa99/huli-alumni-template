@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/stanislav-%C5%A1vehl%C3%ADk-76834aaa
 Email: stanislav.svehlik@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+SparePartsOutlet: https://github.com/Standa99/SparePartsOutlet
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 
